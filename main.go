@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sarweshsuman/redis-cluster-go-coordinator/config"
-	"github.com/sarweshsuman/redis-cluster-go-coordinator/utils"
+	"github.com/mamercad/redis-cluster-go-coordinator/config"
+	"github.com/mamercad/redis-cluster-go-coordinator/utils"
 )
 
 func main() {
