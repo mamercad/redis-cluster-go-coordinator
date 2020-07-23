@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/go-redis/redis/v7"
+	"github.com/go-redis/redis"
 	"github.com/mamercad/redis-cluster-go-coordinator/config"
 )
 
